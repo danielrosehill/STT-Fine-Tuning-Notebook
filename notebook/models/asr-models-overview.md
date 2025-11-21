@@ -1,5 +1,10 @@
 # Fine-Tunable ASR Models: Beyond Whisper
 
+## Question
+Whisper seems to dominate the ASR fine-tuning space, but there are many other ASR models on Hugging Face. What are the pros and cons of fine-tuning these different models compared to Whisper? Which models are more or less suited to fine-tuning?
+
+## Answer
+
 While OpenAI's Whisper has gained significant popularity in the speech recognition space, several other powerful ASR models are available for fine-tuning. This overview introduces alternatives worth considering for your speech-to-text projects.
 
 ## Popular Fine-Tunable ASR Models
