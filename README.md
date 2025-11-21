@@ -16,6 +16,18 @@ This is primarily a collection of:
 - **`prompts/processed/`**: Completed prompt-output pairs
 - **`notes/`**: Consolidated insights and documentation
 - **`data-preparation/`**: Data preparation workflows and scripts
+- **`export/`**: Compiled PDF exports for offline reading
+
+## Exported Materials
+
+### Complete Guide
+- [STT Fine-Tuning Guide (Complete)](export/first-questions/full/STT-Fine-Tuning-Guide.pdf) - Full compilation of all content
+
+### Split by Topic (4 Parts)
+1. [Book 1: Core Concepts](export/first-questions/parts/STT-Fine-Tuning-Guide-BOOK1.pdf)
+2. [Book 2: Advanced Techniques](export/first-questions/parts/STT-Fine-Tuning-Guide-BOOK2.pdf)
+3. [Book 3: Implementation Details](export/first-questions/parts/STT-Fine-Tuning-Guide-BOOK3.pdf)
+4. [Book 4: Practical Applications](export/first-questions/parts/STT-Fine-Tuning-Guide-BOOK4.pdf)
 
 ## AI/Human Collaboration
 
